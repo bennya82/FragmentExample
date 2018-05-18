@@ -61,6 +61,8 @@ public class TransfersActivity extends FragmentActivity {
         ft.commit();
 
         //TEST2
+
+        //US17
     }
 
     @Override
