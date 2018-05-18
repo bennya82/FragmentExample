@@ -44,6 +44,8 @@ public class TransfersActivity extends FragmentActivity {
         ft.setCustomAnimations(R.animator.fade_in,R.animator.fade_in);
         ft.replace(R.id.your_placeholder,transfersStep2Fragment);
         ft.commit();
+
+        //TEST1
     }
 
 
@@ -57,6 +59,8 @@ public class TransfersActivity extends FragmentActivity {
         ft.setCustomAnimations(R.animator.fade_in,R.animator.fade_in);
         ft.replace(R.id.your_placeholder,transfersStep1Fragment);
         ft.commit();
+
+        //TEST2
     }
 
     @Override
